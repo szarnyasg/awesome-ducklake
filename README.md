@@ -7,14 +7,16 @@ resources.
 
 ## Contents
 
-- [Interfaces](#interfaces)
-- [Libraries](#libraries)
-- [Transformation](#transformation)
-- [Implementations](#implementations)
-- [Resources](#resources)
-  - [Documentation](#documentation)
-  - [Examples](#examples)
-  - [Videos](#videos)
+* [Awesome DuckLake](#awesome-ducklake)
+  * [Contents](#contents)
+  * [Interfaces](#interfaces)
+  * [Libraries](#libraries)
+  * [Transformation](#transformation)
+  * [Implementations](#implementations)
+  * [Resources](#resources)
+    * [Documentation](#documentation)
+    * [Examples](#examples)
+    * [Videos](#videos)
 
 ## Interfaces
 
@@ -53,6 +55,7 @@ resources.
   core extension for attaching to databases stored in the DuckLake format
 - [MotherDuck](https://motherduck.com/blog/announcing-ducklake-support-motherduck-preview/) -
   Cloud data warehouse with support for managed DuckLake
+- [DataFusion-DuckLake](https://crates.io/crates/datafusion-ducklake) - DuckLake query engine for Rust, built with DataFusion.
 
 ## Resources
 
